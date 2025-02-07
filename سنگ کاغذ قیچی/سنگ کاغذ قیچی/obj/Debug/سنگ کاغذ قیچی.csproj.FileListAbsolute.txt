@@ -1,0 +1,9 @@
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\bin\Debug\سنگ کاغذ قیچی.exe.config
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\bin\Debug\سنگ کاغذ قیچی.exe
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\bin\Debug\سنگ کاغذ قیچی.pdb
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\obj\Debug\سنگ کاغذ قیچی.csprojResolveAssemblyReference.cache
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\obj\Debug\سنگ_کاغذ_قیچی.Form1.resources
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\obj\Debug\سنگ_کاغذ_قیچی.Properties.Resources.resources
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\obj\Debug\سنگ کاغذ قیچی.csproj.GenerateResource.Cache
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\obj\Debug\سنگ کاغذ قیچی.exe
+C:\Users\Hossein\Desktop\ویندوز قورم\سنگ کاغذ قیچی\سنگ کاغذ قیچی\obj\Debug\سنگ کاغذ قیچی.pdb
